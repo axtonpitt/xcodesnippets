@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>swift remove text field observers</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>CodeBlock</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>        // remove notification observers associated with text field
+        NotificationCenter.default.removeObserver(self, name: .UIKeyboardWillShow, object: &lt;#T##Any?#&gt;)
+        NotificationCenter.default.removeObserver(self, name: .UIKeyboardDidShow, object: &lt;#Any?#&gt;)
+        NotificationCenter.default.removeObserver(self, name: .UIKeyboardWillChangeFrame, object: &lt;#Any?#&gt;)
+        NotificationCenter.default.removeObserver(self, name: .UIKeyboardDidChangeFrame, object: &lt;#Any?#&gt;)
+        NotificationCenter.default.removeObserver(self, name: .UITextFieldTextDidBeginEditing, object: &lt;#T##Any?#&gt;)
+        NotificationCenter.default.removeObserver(self, name: .UITextFieldTextDidChange, object: &lt;#T##Any?#&gt;)
+        NotificationCenter.default.removeObserver(self, name: .UIKeyboardWillHide, object: &lt;#T##Any?#&gt;)
+        NotificationCenter.default.removeObserver(self, name: .UIKeyboardDidHide, object: &lt;#T##Any?#&gt;)
+        </string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>CFB91ED3-13B6-4C26-BF83-66660D310413</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<key>IDECodeSnippetPlatformFamily</key>
+	<string>iphoneos</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>Remove notification observers associated with a text field</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>Swift – Remove Text Field Observers</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
+</dict>
+</plist>

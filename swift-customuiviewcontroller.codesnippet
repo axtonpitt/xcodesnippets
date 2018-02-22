@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>swift-customviewcontroller</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>import UIKit
+
+private extension String {
+    static let title = NSLocalizedString("_title", value: "", comment: "title")
+}
+
+class &lt;#ViewControllerClass#&gt;: UIViewController {
+
+    override var preferredStatusBarStyle: UIStatusBarStyle {
+        return &lt;#UIStatusBarStyle#&gt;
+    }
+
+    // MARK: - Lifecycle
+
+    init() {
+        super.init(nibName: nil, bundle: nil)
+        title = String.title
+    }
+
+    required init?(coder aDecoder: NSCoder) {
+        fatalError("init(coder:) has not been implemented")
+    }
+
+    override func viewDidLoad() {
+        super.viewDidLoad()
+        let selfType = type(of: self)
+
+    }
+
+    override func viewDidLayoutSubviews() {
+        super.viewDidLayoutSubviews()
+        let selfType = type(of: self)
+
+    }
+
+    override func viewWillAppear(_ animated: Bool) {
+        super.viewWillAppear(animated)
+
+    }
+
+    override func viewDidAppear(_ animated: Bool) {
+        super.viewDidAppear(animated)
+
+    }
+
+    override func viewWillDisappear(_ animated: Bool) {
+        super.viewWillDisappear(animated)
+
+    }
+
+    override func viewDidDisappear(_ animated: Bool) {
+        super.viewDidDisappear(animated)
+
+    }
+
+    // MARK: - State
+
+    // MARK: - Views
+
+    // MARK: - Utility
+
+    // MARK: - Action
+
+    // MARK: - Sizing
+
+}</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>7D773810-8010-450A-B8A1-E66A92969E25</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>Custom UIViewController snippet for Swift</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>Swift Custom UIViewController</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
+</dict>
+</plist>

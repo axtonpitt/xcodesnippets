@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>screen height</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>CodeBlock</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>switch UIScreen.main.bounds.height {
+case Screen.height.iPhone4.rawValue:
+    &lt;#break#&gt;
+case Screen.height.iPhone5.rawValue:
+    &lt;#break#&gt;
+case Screen.height.iPhone6.rawValue:
+    &lt;#break#&gt;
+case Screen.height.iPhone6Plus.rawValue:
+    &lt;#break#&gt;
+default:
+    &lt;#break#&gt;
+}</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>F7D0BF7D-0FB9-4094-8DCA-42C9A4C9A771</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>Switch on device screen height</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>Swift – Screen Height Switch</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
+</dict>
+</plist>

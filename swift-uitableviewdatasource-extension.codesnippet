@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>swift-uitableviewdatasource-extension</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>TopLevel</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>// MARK: - UITableViewDataSource
+extension &lt;#Class Name#&gt;: UITableViewDataSource {
+    func numberOfSections(in tableView: UITableView) -&gt; Int {
+        return &lt;#numberOfSections#&gt;
+    }
+
+    func tableView(_ tableView: UITableView,
+                   numberOfRowsInSection section: Int) -&gt; Int {
+        return &lt;#numberOfRows#&gt;
+    }
+
+    func tableView(_ tableView: UITableView,
+                   cellForRowAt indexPath: IndexPath) -&gt; UITableViewCell {
+        return &lt;#UITableViewCell#&gt;
+    }
+
+    func configureCell(cell: UITableViewCell,
+                       forRowAt indexPath: IndexPath) {
+
+    }
+}</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>1E132DC7-AE70-48AC-952C-5AF9608F8A25</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>Extends the desired class to implement the UITableViewDataSource Protocol</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>Swift UITableViewDataSource Extension</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
+</dict>
+</plist>

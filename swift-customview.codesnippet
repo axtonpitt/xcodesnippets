@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>swift-customview</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>import UIKit
+
+class &lt;#View Class Name#&gt;View: UIView {
+
+    override init(frame: CGRect) {
+        super.init(frame: frame)
+    }
+
+    required init?(coder aDecoder: NSCoder) {
+        fatalError("This class does not support coder initialisation")
+    }
+
+    override func layoutSubviews() {
+        super.layoutSubviews()
+    }
+
+    // MARK: - Views
+
+    // MARK: - Sizing
+
+    // MARK: - Utility
+
+}</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>8C28335F-F575-4A93-AF7E-E7BB0363DBB2</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>Class implementation for custom uiview</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>Swift Custom UIView</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
+</dict>
+</plist>

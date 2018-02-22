@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>swift text field observers</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>CodeBlock</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>        // add notification observers associated with text field
+        NotificationCenter.default.addObserver(self, selector: &lt;#T##Selector#&gt;, name: .UIKeyboardWillShow, object: &lt;#Any?#&gt;)
+        NotificationCenter.default.addObserver(self, selector: &lt;#T##Selector#&gt;, name: .UIKeyboardDidShow, object: &lt;#Any?#&gt;)
+        NotificationCenter.default.addObserver(self, selector: &lt;#T##Selector#&gt;, name: .UIKeyboardWillChangeFrame, object: &lt;#Any?#&gt;)
+        NotificationCenter.default.addObserver(self, selector: &lt;#T##Selector#&gt;, name: .UIKeyboardDidChangeFrame, object: &lt;#Any?#&gt;)
+        NotificationCenter.default.addObserver(self, selector: &lt;#T##Selector#&gt;, name: .UITextFieldTextDidBeginEditing, object: &lt;#T##Any?#&gt;)
+        NotificationCenter.default.addObserver(self, selector: &lt;#T##Selector#&gt;, name: .UITextFieldTextDidChange, object: &lt;#T##Any?#&gt;)
+        NotificationCenter.default.addObserver(self, selector: &lt;#T##Selector#&gt;, name: .UIKeyboardWillHide, object: &lt;#T##Any?#&gt;)
+        NotificationCenter.default.addObserver(self, selector: &lt;#T##Selector#&gt;, name: .UIKeyboardDidHide, object: &lt;#T##Any?#&gt;)
+        </string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>2E6992CC-A6DA-4BC9-AF1F-D9D2B23E14FC</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>Notification observers associated with a text field</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>Swift – Text Field Observers</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
+</dict>
+</plist>

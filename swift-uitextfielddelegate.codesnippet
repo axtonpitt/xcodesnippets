@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>swift text field delegate</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>ClassImplementation</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>    // MARK: - UITextFieldDelegate
+    
+    func textFieldShouldBeginEditing(_ textField: UITextField) -&gt; Bool {
+        &lt;#code#&gt;
+    }
+    
+    func textFieldDidBeginEditing(_ textField: UITextField) {
+        &lt;#code#&gt;
+    }
+    
+    func textField(_ textField: UITextField, shouldChangeCharactersIn range: NSRange, replacementString string: String) -&gt; Bool {
+        &lt;#code#&gt;
+    }
+    
+    func textFieldShouldClear(_ textField: UITextField) -&gt; Bool {
+        &lt;#code#&gt;
+    }
+    
+    func textFieldShouldReturn(_ textField: UITextField) -&gt; Bool {
+        &lt;#code#&gt;
+    }
+    
+    func textFieldShouldEndEditing(_ textField: UITextField) -&gt; Bool {
+        // Use this method to validate the current text
+        &lt;#code#&gt;
+    }
+    
+    func textFieldDidEndEditing(_ textField: UITextField) {
+        &lt;#code#&gt;
+    }
+    
+    @available(iOS 10.0, *)
+    func textFieldDidEndEditing(_ textField: UITextField, reason: UITextFieldDidEndEditingReason) {
+        &lt;#code#&gt;
+    }
+    </string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>396C323B-F0A0-4D8A-93EC-9026085E7B74</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<key>IDECodeSnippetPlatformFamily</key>
+	<string>iphoneos</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>Snippet Delegate Methods for UITextFieldDelegate</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>Swift – UITextFieldDelegate</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
+</dict>
+</plist>

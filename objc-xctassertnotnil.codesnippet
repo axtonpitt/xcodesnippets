@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>xann</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>Function or Method</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>XCTAssertNotNil(&lt;#expression#&gt;, &lt;#message#&gt;);</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>310F5446-2879-4AE7-98A3-69B9B62D34FD</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>Assert not nil for XCTest</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>XCT Assert Not Nil</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
+</dict>
+</plist>

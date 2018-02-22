@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>swift-defaulttableviewcell</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>        let cell: UITableViewCell = tableView.dequeueCell(UITableViewCell.self, for: indexPath)
+        cell.backgroundColor = UIColor.gray.withAlphaComponent(indexPath.row % 2 == 0 ? 0.2 : 0.5)
+        return cell</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>105B6876-D12F-4E7E-82CE-7A05B5FAAC19</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>Provides a default table view cell, with an alternating background colour</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>Swift default table view cell</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
+</dict>
+</plist>

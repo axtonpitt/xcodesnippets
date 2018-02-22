@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>swift-customtableviewcellnib</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>class &lt;#Class Name#&gt;TableViewCell: UITableViewCell {
+
+    // MARK: - Outlets
+
+    // MARK: - Lifecycle
+
+    override func awakeFromNib() {
+        super.awakeFromNib()
+        // Initialization code
+    }
+
+    override func layoutSubviews() {
+        super.layoutSubviews()
+        let selfType = type(of: self)
+    }
+
+    // MARK: - Views
+
+
+    // MARK: - Sizing
+
+
+    // MARK: - Action
+
+    override func setSelected(_ selected: Bool, animated: Bool) {
+        super.setSelected(selected, animated: animated)
+
+        // Configure the view for the selected state
+    }
+
+    // MARK: - Utility
+
+}
+</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>B4335837-B412-4709-B978-629D889394F6</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>Create custom table view cell from nib/xib</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>Custom Table View Cell from Nib</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
+</dict>
+</plist>

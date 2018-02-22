@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>swift-customviewnib</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>import UIKit
+
+class &lt;#Custom View Class#&gt;View: UIView {
+    // MARK: - Outlets
+
+    // MARK: - Lifecycle
+
+    override init(frame: CGRect) {
+        super.init(frame: frame)
+        setup()
+    }
+
+    required init?(coder aDecoder: NSCoder) {
+        super.init(coder: aDecoder)
+        setup()
+    }
+
+    private func setup() {
+        // load bundle
+    }
+
+    override func layoutSubviews() {
+        super.layoutSubviews()
+    }
+
+    // MARK: - State
+
+    // MARK: - Views
+
+    // MARK: - Utility
+
+    // MARK: - Action
+
+    // MARK: - Sizing
+
+}</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>93A196A6-C697-4BB6-8566-56796EE2DF16</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>Create custom view class from nib/xib</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>Custom View from Nib</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
+</dict>
+</plist>

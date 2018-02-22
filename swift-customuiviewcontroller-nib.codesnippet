@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>swift-customviewcontrollernib</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>import UIKit
+
+extension String {
+    enum &lt;#ViewControllerClass#&gt; {
+        static let title = NSLocalizedString("_title", value: "", comment: "title")
+    }
+}
+
+class &lt;#ViewControllerClass#&gt;: UIViewController {
+
+    override var preferredStatusBarStyle: UIStatusBarStyle {
+        return &lt;#UIStatusBarStyle#&gt;
+    }
+
+    // MARK: - Outlets
+
+    // MARK: - Lifecycle
+
+    convenience init(bundle: Bundle? = nil) {
+        self.init(nibName: String(describing: &lt;#ViewControllerClass#&gt;.self), bundle: bundle)
+        title = String.&lt;#ViewControllerClass#&gt;.title
+
+    }
+
+    override func awakeFromNib() {
+        super.awakeFromNib()
+    }
+
+    override func viewDidLoad() {
+        super.viewDidLoad()
+        let selfType = type(of: self)
+
+    }
+
+    override func viewDidLayoutSubviews() {
+        super.viewDidLayoutSubviews()
+        let selfType = type(of: self)
+
+    }
+
+    override func viewWillAppear(_ animated: Bool) {
+        super.viewWillAppear(animated)
+
+    }
+
+    override func viewDidAppear(_ animated: Bool) {
+        super.viewDidAppear(animated)
+
+    }
+
+    override func viewWillDisappear(_ animated: Bool) {
+        super.viewWillDisappear(animated)
+
+    }
+
+    override func viewDidDisappear(_ animated: Bool) {
+        super.viewDidDisappear(animated)
+
+    }
+
+    // MARK: - State
+
+    // MARK: - Views
+
+    // MARK: - Utility
+
+    // MARK: - Action
+
+    // MARK: - Sizing
+
+}</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>75DD182B-3126-42F1-8864-2F08B90BD8C4</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>Custom View Controller template from nib/xib</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>Custom View Controller from Nib</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
+</dict>
+</plist>

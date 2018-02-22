@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>screen width</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>CodeBlock</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>switch UIScreen.main.bounds.width {
+case Screen.width.iPhone4.rawValue:
+    &lt;#break#&gt;
+case Screen.width.iPhone6.rawValue:
+    &lt;#break#&gt;
+case Screen.width.iPhone6Plus.rawValue:
+    &lt;#break#&gt;
+default:
+    &lt;#break#&gt;
+}</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>A7C9D700-6DC9-4DD1-8D88-78EFBF89558D</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>Switch on device screen width</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>Swift – Screen Width Switch</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
+</dict>
+</plist>
