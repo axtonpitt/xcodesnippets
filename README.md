@@ -1,4 +1,4 @@
-# xcodesnippets
+# Xcode Snippets
 A collection of snippets to speed up development when using Xcode.
 
 ## Installation Instructions
