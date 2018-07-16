@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>singleton</string>
+	<string>objc-singleton</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>Class Implementation</string>
@@ -25,7 +25,7 @@
 	<key>IDECodeSnippetSummary</key>
 	<string>Class method that returns a singleton instance</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Shared Singleton</string>
+	<string>Objc - Singleton</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

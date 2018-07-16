@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>checkerror</string>
+	<string>objc-checkerror</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
@@ -33,7 +33,7 @@
 	<key>IDECodeSnippetSummary</key>
 	<string>Function that extracts human-readable information from OSStatus codes.</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>CheckError</string>
+	<string>Objc - CheckError Human readable</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

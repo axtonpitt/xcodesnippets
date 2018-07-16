@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>pdel</string>
+	<string>objc-uipickerviewdelegate</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>Class Implementation</string>
@@ -31,7 +31,7 @@
 	<key>IDECodeSnippetSummary</key>
 	<string>Placeholders for required UIPickerView Delegate methods</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>UIPickerViewDelegate</string>
+	<string>Objc - UIPickerViewDelegate</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

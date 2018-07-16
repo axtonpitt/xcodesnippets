@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>nscoding</string>
+	<string>objc-nscoding-protocol</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>Class Implementation</string>
@@ -32,7 +32,7 @@
 	<key>IDECodeSnippetSummary</key>
 	<string>Placeholders for NSCoding protocol methods</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>NSCoding Protocol Methods</string>
+	<string>Objc - NSCoding Protocol Methods</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>tvds</string>
+	<string>objc-uitableviewdatasource</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>Class Implementation</string>
@@ -43,7 +43,7 @@
 	<key>IDECodeSnippetSummary</key>
 	<string>Placeholders for required UITableViewDataSource delegate methods</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>UITableViewDataSource</string>
+	<string>Objc - UITableViewDataSource</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
