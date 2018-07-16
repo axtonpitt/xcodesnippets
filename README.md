@@ -2,7 +2,7 @@
 A collection of snippets to speed up development when using Xcode.
 
 ## Installation Instructions
-Copy snippet files into ~/Library/Developer/Xcode/UserData/CodeSnippets/
+Copy snippet files into `~/Library/Developer/Xcode/UserData/CodeSnippets/`
 
 Whenever files are added or removed from this folder, we need to restart Xcode for them to take effect.
 
@@ -24,6 +24,6 @@ Creating a delegate protocol:
 ![Typing dele into Xcode text editor](images/delegate-typing.png)
 ![Resulting code snippet inserted with placeholders](images/delegate-snippet-result.png)
 
-Conform to UITableViewDataSource in an extension:
+Conform to `UITableViewDataSource` in an extension:
 
 ![UITableViewDataSource methods in extension](images/table-view-data-source-extension.png)
