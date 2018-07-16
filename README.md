@@ -24,6 +24,6 @@ Creating a delegate protocol:
 ![Typing dele into Xcode text editor](images/delegate-typing.png)
 ![Resulting code snippet inserted with placeholders](images/delegate-snippet-result.png)
 
-Conform to UITableViewDataSource in an extension:
+Conform to `UITableViewDataSource` in an extension:
 
 ![UITableViewDataSource methods in extension](images/table-view-data-source-extension.png)
