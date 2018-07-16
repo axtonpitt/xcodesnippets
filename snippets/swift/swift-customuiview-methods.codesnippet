@@ -9,7 +9,7 @@
 		<string>ClassImplementation</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>// MARK: - Lifecycle Methods
+	<string>// MARK: - Lifecycle
     
     override init(frame: CGRect) {
         super.init(frame: frame)

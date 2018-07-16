@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>swift text field delegate</string>
+	<string>swift-uitextfielddelegate-methods</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>ClassImplementation</string>
@@ -54,7 +54,7 @@
 	<key>IDECodeSnippetSummary</key>
 	<string>Snippet Delegate Methods for UITextFieldDelegate</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Swift – UITextFieldDelegate</string>
+	<string>Swift – UITextFieldDelegate Methods</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

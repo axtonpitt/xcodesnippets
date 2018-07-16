@@ -13,8 +13,13 @@
 
 class &lt;#View Class Name#&gt;View: UIView {
 
+	// MARK: - Config/State
+
+	// MARK: - Lifecycle
+
     override init(frame: CGRect) {
         super.init(frame: frame)
+
     }
 
     required init?(coder aDecoder: NSCoder) {
@@ -23,11 +28,18 @@ class &lt;#View Class Name#&gt;View: UIView {
 
     override func layoutSubviews() {
         super.layoutSubviews()
+
     }
 
-    // MARK: - Views
+    // MARK: - Views/Outlets
 
     // MARK: - Sizing
+
+	private enum Size {
+
+	}
+
+	// MARK: - Action
 
     // MARK: - Utility
 

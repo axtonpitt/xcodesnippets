@@ -3,13 +3,13 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>swift text field observers</string>
+	<string>swift-uitextfield-addobservers</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>CodeBlock</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>        // add notification observers associated with text field
+	<string>        // Add notification observers associated with text field
         NotificationCenter.default.addObserver(self, selector: &lt;#T##Selector#&gt;, name: .UIKeyboardWillShow, object: &lt;#Any?#&gt;)
         NotificationCenter.default.addObserver(self, selector: &lt;#T##Selector#&gt;, name: .UIKeyboardDidShow, object: &lt;#Any?#&gt;)
         NotificationCenter.default.addObserver(self, selector: &lt;#T##Selector#&gt;, name: .UIKeyboardWillChangeFrame, object: &lt;#Any?#&gt;)
@@ -26,7 +26,7 @@
 	<key>IDECodeSnippetSummary</key>
 	<string>Notification observers associated with a text field</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Swift – Text Field Observers</string>
+	<string>Swift – UITextField Add Observers</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

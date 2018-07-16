@@ -12,6 +12,9 @@
 	<string>import UIKit
 
 class &lt;#Class Name#&gt;TableViewCell: UITableViewCell {
+
+    // MARK: - Config/State
+    
     typealias Content = &lt;#ContentType#&gt;
 
     var content: Content? {
@@ -33,7 +36,6 @@ class &lt;#Class Name#&gt;TableViewCell: UITableViewCell {
 
     override func layoutSubviews() {
         super.layoutSubviews()
-        let selfType = type(of: self)
     }
 
     private func didSetContent() {
@@ -44,18 +46,20 @@ class &lt;#Class Name#&gt;TableViewCell: UITableViewCell {
 
     }
 
-    // MARK: - Views
+    // MARK: - Views/Outlets
 
 
     // MARK: - Sizing
 
+    private enum Size {
+
+    }
 
     // MARK: - Action
 
     override func setSelected(_ selected: Bool, animated: Bool) {
         super.setSelected(selected, animated: animated)
 
-        // Configure the view for the selected state
     }
 
     // MARK: - Utility

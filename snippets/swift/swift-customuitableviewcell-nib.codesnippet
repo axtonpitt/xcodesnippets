@@ -11,7 +11,7 @@
 	<key>IDECodeSnippetContents</key>
 	<string>class &lt;#Class Name#&gt;TableViewCell: UITableViewCell {
 
-    // MARK: - Outlets
+	// MARK: - Config/State
 
     // MARK: - Lifecycle
 
@@ -22,14 +22,16 @@
 
     override func layoutSubviews() {
         super.layoutSubviews()
-        let selfType = type(of: self)
     }
 
-    // MARK: - Views
+    // MARK: - Views/Outlets
 
 
     // MARK: - Sizing
 
+	private enum Size {
+
+	}
 
     // MARK: - Action
 

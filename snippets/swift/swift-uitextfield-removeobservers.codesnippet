@@ -3,13 +3,13 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>swift remove text field observers</string>
+	<string>swift-uitextfield-removeobservers</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>CodeBlock</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>        // remove notification observers associated with text field
+	<string>        // Remove notification observers associated with text field
         NotificationCenter.default.removeObserver(self, name: .UIKeyboardWillShow, object: &lt;#T##Any?#&gt;)
         NotificationCenter.default.removeObserver(self, name: .UIKeyboardDidShow, object: &lt;#Any?#&gt;)
         NotificationCenter.default.removeObserver(self, name: .UIKeyboardWillChangeFrame, object: &lt;#Any?#&gt;)
@@ -28,7 +28,7 @@
 	<key>IDECodeSnippetSummary</key>
 	<string>Remove notification observers associated with a text field</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Swift – Remove Text Field Observers</string>
+	<string>Swift – UITextField Remove Observers</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

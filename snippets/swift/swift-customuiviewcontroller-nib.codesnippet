@@ -11,41 +11,37 @@
 	<key>IDECodeSnippetContents</key>
 	<string>import UIKit
 
-extension String {
-    enum &lt;#ViewControllerClass#&gt; {
-        static let title = NSLocalizedString("_title", value: "", comment: "title")
-    }
+private extension String {
+    static let title = NSLocalizedString("view_controller_title", value: "", comment: "title")
 }
 
 class &lt;#ViewControllerClass#&gt;: UIViewController {
+
+    // MARK: - Config/State
 
     override var preferredStatusBarStyle: UIStatusBarStyle {
         return &lt;#UIStatusBarStyle#&gt;
     }
 
-    // MARK: - Outlets
-
     // MARK: - Lifecycle
 
     convenience init(bundle: Bundle? = nil) {
         self.init(nibName: String(describing: &lt;#ViewControllerClass#&gt;.self), bundle: bundle)
-        title = String.&lt;#ViewControllerClass#&gt;.title
-
+        title = String.title
     }
 
     override func awakeFromNib() {
         super.awakeFromNib()
+        
     }
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        let selfType = type(of: self)
 
     }
 
     override func viewDidLayoutSubviews() {
         super.viewDidLayoutSubviews()
-        let selfType = type(of: self)
 
     }
 
@@ -69,15 +65,17 @@ class &lt;#ViewControllerClass#&gt;: UIViewController {
 
     }
 
-    // MARK: - State
+    // MARK: - Views/Outlets
 
-    // MARK: - Views
+    // MARK: - Sizing
 
-    // MARK: - Utility
+    private enum Size {
+
+    }
 
     // MARK: - Action
 
-    // MARK: - Sizing
+    // MARK: - Utility
 
 }</string>
 	<key>IDECodeSnippetIdentifier</key>

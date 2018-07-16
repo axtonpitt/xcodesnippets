@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>lazyvar</string>
+	<string>swift-lazyvar</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>ClassImplementation</string>
@@ -11,7 +11,6 @@
 	<key>IDECodeSnippetContents</key>
 	<string>private lazy var &lt;#Name#&gt;: &lt;#Class#&gt; = {
     let result = &lt;#Class#&gt;()
-
     return result
 }()</string>
 	<key>IDECodeSnippetIdentifier</key>
