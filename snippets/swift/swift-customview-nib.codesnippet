@@ -12,7 +12,8 @@
 	<string>import UIKit
 
 class &lt;#Custom View Class#&gt;View: UIView {
-    // MARK: - Outlets
+
+    // MARK: - Config/State
 
     // MARK: - Lifecycle
 
@@ -27,22 +28,25 @@ class &lt;#Custom View Class#&gt;View: UIView {
     }
 
     private func setup() {
-        // load bundle
+
     }
 
     override func layoutSubviews() {
         super.layoutSubviews()
+
     }
 
-    // MARK: - State
+    // MARK: - Views/Outlets
 
-    // MARK: - Views
+    // MARK: - Sizing
 
-    // MARK: - Utility
+    private enum Size {
+
+	}
 
     // MARK: - Action
 
-    // MARK: - Sizing
+    // MARK: - Utility
 
 }</string>
 	<key>IDECodeSnippetIdentifier</key>

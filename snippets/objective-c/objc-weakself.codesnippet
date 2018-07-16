@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>weakself</string>
+	<string>objc-weakself</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>Function or Method</string>
@@ -17,7 +17,7 @@
 	<key>IDECodeSnippetSummary</key>
 	<string>Declare weak reference to self</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>__weak self</string>
+	<string>Objc - Weak self</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

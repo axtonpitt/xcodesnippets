@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>cvds</string>
+	<string>objc-uicollectionviewdatasource</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>Class Implementation</string>
@@ -39,7 +39,7 @@
 	<key>IDECodeSnippetSummary</key>
 	<string>Placeholders for essential UICollectionViewDataSource delegate methods</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>UICollectionViewDataSource</string>
+	<string>Objc - UICollectionViewDataSource</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>documents</string>
+	<string>objc-documentsdirectory</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>Function or Method</string>
@@ -17,7 +17,7 @@
 	<key>IDECodeSnippetSummary</key>
 	<string></string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Documents Directory Path</string>
+	<string>Objc - Documents Directory Path</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

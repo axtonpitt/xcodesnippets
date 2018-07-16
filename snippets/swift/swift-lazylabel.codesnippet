@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>lazy label</string>
+	<string>swift-lazylabel</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>ClassImplementation</string>
@@ -16,7 +16,6 @@
         label.textColor = &lt;#UIColor#&gt;
         label.font = &lt;#UIFont#&gt;
         label.textAlignment = &lt;#NSTextAlignment#&gt;
-        label.attributedText = &lt;#NSAttributedString#&gt;
         label.numberOfLines = &lt;#Int#&gt;
         label.adjustsFontSizeToFitWidth = &lt;#Bool#&gt;
         

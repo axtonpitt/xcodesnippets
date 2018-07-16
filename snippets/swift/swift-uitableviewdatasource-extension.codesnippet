@@ -37,7 +37,7 @@ extension &lt;#Class Name#&gt;: UITableViewDataSource {
 	<key>IDECodeSnippetSummary</key>
 	<string>Extends the desired class to implement the UITableViewDataSource Protocol</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Swift UITableViewDataSource Extension</string>
+	<string>Swift - UITableViewDataSource Extension</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

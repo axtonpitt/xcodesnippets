@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>lifecycle</string>
+	<string>objc-uiviewcontroller-lifecyclemethods</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>Class Implementation</string>
@@ -41,7 +41,7 @@
 	<key>IDECodeSnippetSummary</key>
 	<string>Placeholders for all of the view controller lifecycle methods</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>UIViewController Lifecycle</string>
+	<string>Objc - UIViewController Lifecycle</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

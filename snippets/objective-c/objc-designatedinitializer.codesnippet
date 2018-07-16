@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>init</string>
+	<string>objc-init</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>Function or Method</string>
@@ -24,7 +24,7 @@
 	<key>IDECodeSnippetSummary</key>
 	<string>Designated incantation for your designated initializers</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>init</string>
+	<string>Objc - Init</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

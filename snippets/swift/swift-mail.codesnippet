@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>swift-mail</string>
+	<string>swift-mailcompose</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>ClassImplementation</string>
@@ -26,7 +26,7 @@
         }
     }
 
-    //MARK: MFMailComposeViewControllerDelegate
+    // MARK: - MFMailComposeViewControllerDelegate
 
     func mailComposeController(controller: MFMailComposeViewController!, didFinishWithResult result: MFMailComposeResult, error: NSError!) {
 

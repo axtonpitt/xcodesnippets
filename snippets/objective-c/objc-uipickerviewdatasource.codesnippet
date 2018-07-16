@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>pds</string>
+	<string>objc-pickerviewdatasource</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>Class Implementation</string>
@@ -27,7 +27,7 @@
 	<key>IDECodeSnippetSummary</key>
 	<string>Placeholders for required UIPickerView datasource methods</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>UIPickerViewDataSource</string>
+	<string>Objc - UIPickerViewDataSource</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

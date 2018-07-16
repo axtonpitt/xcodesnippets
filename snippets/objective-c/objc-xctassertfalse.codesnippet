@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>xaf</string>
+	<string>objc-xctassertfalse</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>Function or Method</string>
@@ -17,7 +17,7 @@
 	<key>IDECodeSnippetSummary</key>
 	<string>Assert false for XCTest</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>XCT Assert False</string>
+	<string>Objc - XCTAssertFalse</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

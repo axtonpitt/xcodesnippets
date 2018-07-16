@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>guard let swift</string>
+	<string>swift-guardlet</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>CodeBlock</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>guard let &lt;#constant#&gt; = &lt;#value#&gt; as? &lt;#Type#&gt; else { &lt;#statements#&gt; }</string>
+	<string>guard let &lt;#constant#&gt; = &lt;#value#&gt; as? &lt;#Type#&gt; else { 
+	&lt;#statements#&gt; 
+}</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>7EAED46E-E723-4B06-AF63-578DC1A86C52</string>
 	<key>IDECodeSnippetLanguage</key>

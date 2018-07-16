@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>tvdel</string>
+	<string>objc-uitableviewdelegate</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>Class Implementation</string>
@@ -23,7 +23,7 @@
 	<key>IDECodeSnippetSummary</key>
 	<string>Placeholders for required UITableViewDelegate protocol methods</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>UITableViewDelegate</string>
+	<string>Objc - UITableViewDelegate</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

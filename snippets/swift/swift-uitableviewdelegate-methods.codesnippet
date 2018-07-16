@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>swift-uitableviewdelegate</string>
+	<string>swift-uitableviewdelegate-methods</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>ClassImplementation</string>
@@ -51,7 +51,7 @@
 	<key>IDECodeSnippetSummary</key>
 	<string>UITableViewDelegate snippet for Swift</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Swift UITableViewDelegate</string>
+	<string>Swift - UITableViewDelegate Methods</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

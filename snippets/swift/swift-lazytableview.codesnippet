@@ -3,29 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>switch response</string>
+	<string>swift-lazytableview</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>CodeExpression</string>
+		<string>ClassImplementation</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>switch response {
-    
-case .success(&lt;#T##T#&gt;):
-    &lt;#break#&gt;
-    
-case .failure(&lt;#T##SauceError#&gt;):
-    &lt;#break#&gt;
-    
-}</string>
+	<string>private lazy var &lt;#labelName#&gt;: UITableView = {
+        let tableView = UITableView()
+        return tableView
+    }()</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>7E357D7B-D2F2-4008-AF29-B17FD96A3EDA</string>
+	<string>05382605-F89C-414D-97A2-DD46D4BF4703</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>Switch for SauceResponse objects</string>
+	<string>Lazy Table View</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Swift – Response Switch</string>
+	<string>Swift - Lazy Table View</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

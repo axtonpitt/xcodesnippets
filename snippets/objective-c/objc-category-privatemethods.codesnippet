@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>continuation</string>
+	<string>objc-continuation</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>Top Level</string>
@@ -19,7 +19,7 @@
 	<key>IDECodeSnippetSummary</key>
 	<string>Anonymous category to define private methods in an implementation</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Class Continuation</string>
+	<string>Objc - Class Continuation</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

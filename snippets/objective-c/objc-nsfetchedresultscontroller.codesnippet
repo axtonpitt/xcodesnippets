@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>frc</string>
+	<string>objc-fetchedresultscontroller</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>Function or Method</string>
@@ -27,7 +27,7 @@
 	<key>IDECodeSnippetSummary</key>
 	<string>Boilerplate for creating an NSFetchedResultsController</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>NSFetchedResultsController</string>
+	<string>Objc - NSFetchedResultsController</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

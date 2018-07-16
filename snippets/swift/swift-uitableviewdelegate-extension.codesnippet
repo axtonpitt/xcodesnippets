@@ -52,7 +52,7 @@ extension &lt;#Class Name#&gt;: UITableViewDelegate {
 	<key>IDECodeSnippetSummary</key>
 	<string>Extends the class to implement the UITableViewDelegate Protocol</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Swift UITableViewDelegate Extension</string>
+	<string>Swift - UITableViewDelegate Extension</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
