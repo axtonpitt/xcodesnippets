@@ -19,7 +19,7 @@
 	<key>IDECodeSnippetSummary</key>
 	<string>Print statement that only runs on debug configurations</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Debug print</string>
+	<string>Swift - Debug print</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

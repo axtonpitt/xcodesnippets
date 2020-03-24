@@ -24,9 +24,9 @@ default:
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>Switch on device screen width</string>
+	<string>Switch on device screen width. Not recommended for use...</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Swift – Screen Width Switch</string>
+	<string>Swift - Screen Width Switch</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

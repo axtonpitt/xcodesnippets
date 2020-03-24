@@ -23,7 +23,7 @@
 	<key>IDECodeSnippetSummary</key>
 	<string>Custom paragraph style and attributed string</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Swift – Complex Attributed Text</string>
+	<string>Swift - NSAttributedString w/ NSMutableParagraphStyle</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

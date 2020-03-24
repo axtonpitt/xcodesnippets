@@ -85,7 +85,7 @@ class &lt;#ViewControllerClass#&gt;: UIViewController {
 	<key>IDECodeSnippetSummary</key>
 	<string>Custom View Controller template from nib/xib</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Custom View Controller from Nib</string>
+	<string>Swift - UIViewController from Nib</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

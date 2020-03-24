@@ -52,7 +52,7 @@
 	<key>IDECodeSnippetSummary</key>
 	<string>Create custom table view cell from nib/xib</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Custom Table View Cell from Nib</string>
+	<string>Swift - Custom UITableViewCell from Nib</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

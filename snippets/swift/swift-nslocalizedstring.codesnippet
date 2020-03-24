@@ -19,7 +19,7 @@
 	<key>IDECodeSnippetSummary</key>
 	<string>Correct format localized string</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Swift NSLocalizedString</string>
+	<string>Swift - NSLocalizedString w/o assignment</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

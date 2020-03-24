@@ -26,6 +26,8 @@
         }
     }
 
+	// MARK: - MFMessageComposeViewControllerDelegate
+
     func messageComposeViewController(controller: MFMessageComposeViewController!, didFinishWithResult result: MessageComposeResult) {
         dismiss(animated: true)
     }</string>
@@ -36,7 +38,7 @@
 	<key>IDECodeSnippetSummary</key>
 	<string>MFMessageComposeViewController snippet for Swift</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Swift MFMessageComposeViewController</string>
+	<string>Swift - MFMessageComposeViewController</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

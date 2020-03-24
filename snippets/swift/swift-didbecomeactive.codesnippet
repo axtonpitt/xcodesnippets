@@ -17,7 +17,7 @@
 	<key>IDECodeSnippetSummary</key>
 	<string>UIApplicationDidBecomeActiveNotification observer snippet for Swift</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Swift add didBecomeActive notification observer</string>
+	<string>Swift - add `didBecomeActive` notification observer</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

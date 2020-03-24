@@ -51,7 +51,7 @@ class &lt;#View Class Name#&gt;View: UIView {
 	<key>IDECodeSnippetSummary</key>
 	<string>Class implementation for custom uiview</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Swift Custom UIView</string>
+	<string>Swift - UIView</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

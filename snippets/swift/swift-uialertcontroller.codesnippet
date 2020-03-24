@@ -10,7 +10,7 @@
 	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>let alert = UIAlertController(title: &lt;#title#&gt;, message: &lt;#message#&gt;, preferredStyle: .alert)
-			alert.addAction(UIAlertAction(title: "", style: .default, handler: { (action) in
+			alert.addAction(UIAlertAction(title: "&lt;#action title#&gt;", style: .default, handler: { (action) in
 			  alert.dismiss(animated: &lt;#Bool#&gt;, completion: {
 			    &lt;#code#&gt;
 			  })
@@ -22,7 +22,7 @@
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>Create and present a custom alert controller</string>
+	<string>Create and present a custom alert controller, with one alert action.</string>
 	<key>IDECodeSnippetTitle</key>
 	<string>Swift - UIAlertController</string>
 	<key>IDECodeSnippetUserSnippet</key>

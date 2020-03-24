@@ -72,7 +72,7 @@ class &lt;#Class Name#&gt;TableViewCell: UITableViewCell {
 	<key>IDECodeSnippetSummary</key>
 	<string>Stubs for custom table view cell</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Swift Custom UITableViewCell</string>
+	<string>Swift - Custom UITableViewCell</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

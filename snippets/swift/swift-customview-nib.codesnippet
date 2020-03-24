@@ -56,7 +56,7 @@ class &lt;#Custom View Class#&gt;View: UIView {
 	<key>IDECodeSnippetSummary</key>
 	<string>Create custom view class from nib/xib</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Custom View from Nib</string>
+	<string>Swift - UIView from Nib</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

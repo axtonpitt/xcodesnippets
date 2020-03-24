@@ -26,9 +26,9 @@ default:
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>Switch on device screen height</string>
+	<string>Switch on device screen height. Not recommended for use...</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Swift – Screen Height Switch</string>
+	<string>Swift - Screen Height Switch</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

@@ -43,7 +43,7 @@
 	<key>IDECodeSnippetSummary</key>
 	<string>MFMailComposeViewController snippet for Swift</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Swift MFMailComposeViewController</string>
+	<string>Swift - MFMailComposeViewController + Delegate</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
